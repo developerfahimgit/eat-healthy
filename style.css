@@ -18,11 +18,13 @@ body{
 }
 .half-width img{
   width: 80%;
+  margin-right: 50px;
   
 }
 .half-width h1{
   font-size: 35px;
   color: #554747;
+  margin: auto;
 }
 .link-btn{
   text-decoration: none;
@@ -35,12 +37,23 @@ body{
   background-image: url(images/fst-bnr.jpg);
   background-repeat: no-repeat;
   background-position: right;
+  
 }
+.first-bnr .view{
+  margin: auto;
+  width: 30%;
+  margin-left: 50px;
+}
+
+
 .second-bnr{
   background-image: url(images/7.png);
   background-repeat: no-repeat;
   background-position:right;
   background-size: 100%;
+}
+.content{
+  margin: 150px;
 }
 .third-bnr{
   text-align: center;
@@ -84,6 +97,10 @@ body{
 }
 .grey{
   color: #797878;
+}
+.lst-prt h3{
+  font-size: 50px;
+  margin: auto;
 }
 .lst-prt p{
   color:aliceblue;
