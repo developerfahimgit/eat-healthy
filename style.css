@@ -71,6 +71,21 @@ body{
   text-align: center;
 }
 .fth-part{
-text-align: center;
-margin-top: 40PX;
+  text-align: center;
+  margin-top: 40PX;
+  margin-bottom: 40px;
+}
+.lst-prt{
+  text-align: center;
+  background-color: #010118d5;
+  display: inline-block;
+  width: 100%;
+  padding: 25px 0px;
+}
+.grey{
+  color: #797878;
+}
+.lst-prt p{
+  color:aliceblue;
+  font-weight: lighter;
 }
